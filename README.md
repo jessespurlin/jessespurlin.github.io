@@ -1,4 +1,4 @@
-Deployed at [jessespurlin.github.io](jessespurlin.github.io)
+Deployed at <jessespurlin.github.io>
 
 
 Credits:
