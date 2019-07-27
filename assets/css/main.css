@@ -3929,3 +3929,12 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+#headshot img {
+	border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}		
