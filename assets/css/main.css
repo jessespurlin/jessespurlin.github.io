@@ -3939,3 +3939,30 @@ input, select, textarea {
 	margin-bottom: 40px;
   width: 40%;
 }		
+
+.tech-icons {
+	list-style: none;
+	font-size: 60px;
+	text-align: center;
+}
+.tech-icons li { 
+	display: inline-block;
+}
+.fa-html5 {
+	color: #82C91F;
+}
+.fa-css3-alt {
+	color: #4C6DF5;
+}
+.fa-js-square {
+ color: #32AABF;
+}
+.fa-react {
+	color: #F87D15; 
+}
+.fa-node {
+	color: #4C6DF5; 
+}
+.fa-envira {
+	color: #50AA4B; 
+}
